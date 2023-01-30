@@ -4,6 +4,10 @@ If you don't want to compile this program you can download it from my [patreon](
 #### This program was made by
 GLUR
 
+### Requirements
+* `Latest version of chrome`
+* `[Free Download Manager](https://www.freedownloadmanager.org)`
+
 ### Features
 * `Easy download`
 * `Fast download`
@@ -12,5 +16,5 @@ GLUR
 ### TODO
 * Nothing to do
 
-### IMPORTANT NOTICE
+#### IMPORTANT NOTICE
 This program was made for educational purposes only
