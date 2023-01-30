@@ -5,8 +5,8 @@ If you don't want to compile this program you can download it from my [patreon](
 GLUR
 
 ### Requirements
-* `Latest version of chrome`
-* `[Free Download Manager](https://www.freedownloadmanager.org)`
+* Latest version of chrome
+* [Free Download Manager](https://www.freedownloadmanager.org)
 
 ### Features
 * `Easy download`
