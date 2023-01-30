@@ -5,8 +5,10 @@ If you don't want to compile this program you can download it from my [patreon](
 GLUR
 
 ### Requirements
-* Latest version of chrome
+* [Latest version of chrome](https://www.google.com/chrome/)
 * [Free Download Manager](https://www.freedownloadmanager.org)
+* Any VPN | Free VPN: [ProtonVPN](https://protonvpn.com)
+* All required python librarys. See main.py
 
 ### Features
 * `Easy download`
